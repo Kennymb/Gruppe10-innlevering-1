@@ -5,6 +5,8 @@ Innhold fortegnelse
 
 Introduksjon 
 
+Blaakwdawidaowdbou 
+
 1. Strategi for rekruttering og sammensetning: Anbefalinger for å bemanne
 prosjektgruppen, med vekt på å balansere behovet for mangfold (ulike teamroller
 som produksjon, administrasjon, integrasjon, entreprenørskap) med behovet for
