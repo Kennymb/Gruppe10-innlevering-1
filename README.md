@@ -1,2 +1,2 @@
 # Immigrant
-Gruppe 10 - første innelevering.
+Gruppe 10 - første innlevering.
