@@ -4,7 +4,7 @@ Fremside
 Innhold fortegnelse
 
 Introduksjon 
-
+Hei vi skal svare på oppgaven
 Blaakwdawidaowdbou 
 
 1. Strategi for rekruttering og sammensetning: Anbefalinger for å bemanne
