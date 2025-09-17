@@ -22,6 +22,7 @@ relasjonsbygging.
 eller mandater som ikke bare fokuserer på "jerntriangelet" (tid, kostnad, kvalitet),
 men også på relasjonelle forhold og hvordan samarbeidet mellom prosjekteier
 og prosjektleder skal foregå.
+lenia lenia lenia hei hei hei
 
 
 Proaktive mekanismer for konflikthåndtering:
