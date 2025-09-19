@@ -22,7 +22,7 @@ men også på relasjonelle forhold og hvordan samarbeidet mellom prosjekteier
 og prosjektleder skal foregå.
 
 
-##Proaktive mekanismer for konflikthåndtering:##
+**Proaktive mekanismer for konflikthåndtering:**
 
 Prosjektarbeid involverer ofte flere aktører med ulike perspektiver, arbeidsmetoder og prioriteringer. For å redusere risikoen for eskalerende uenigheter i prosjektgruppen foreslås det følgende proaktive tiltak:
 
