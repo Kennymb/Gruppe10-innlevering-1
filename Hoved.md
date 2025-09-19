@@ -16,7 +16,7 @@ forklare hvorfor dette er viktige momenter å ta inn i planleggingen tidlig.
 2. Design av "det første møtet": Detaljerte forslag til agenda og aktiviteter for
 prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og
 arbeidsfordeling, og inkludere viktigheten av "pseudo-arbeid" for
-relasjonsbygging.
+relasjonsbygging. DETTE HER TOBJØRN SIN DEL
 
 3. Rammer for relasjonelle kontrakter: Anbefalinger for utforming av kontrakter
 eller mandater som ikke bare fokuserer på "jerntriangelet" (tid, kostnad, kvalitet),
