@@ -4,8 +4,7 @@ Fremside
 Innhold fortegnelse
 
 Introduksjon 
-Hei vi skal svare på oppgaven
-Blaakwdawidaowdbou 
+Å være et team byr på mange utfordringer. Spesielt når prosjektet skal utføres av mennesker med mange forskjellige erfaringer, kunnskaper og interesser. Videre skal prosjektet gjennomføres på kort tid. Akkurat dette er problemstillingen til Erling som skal lage en medborgerportal innen 15 måneder. I denne teksten har det blitt satt sammen en oppstartspakke slik at teamet skal fungere på best mulig måte. Blant annet strategi for rekruttering, utforming av relasjonelle kontrakter, konflikthåndtering, håndtering av tidspress og sikring av god kommunikasjon. I tillegg vil teksten gi forslag til det første møte. Alt dette skal hjelpe Erling til å få et velfungerende team.
 
 1. Strategi for rekruttering og sammensetning: Anbefalinger for å bemanne
 prosjektgruppen, med vekt på å balansere behovet for mangfold (ulike teamroller
