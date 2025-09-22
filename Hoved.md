@@ -1,7 +1,28 @@
-# Disposisjon
-Fremside
+### **Gruppeinnlevering 1** ###
 
-Innhold fortegnelse
+**Group number and student names:**
+Group 10
+Emma Moland Leiknes, emmaml@uia.no
+Kenny Minh Bui, Kennymb@uia.no 
+Lenia Barzan, Leniab@uia.no
+Lucas Fjeld, lucasf@uia.no 
+Sigve Sørensen, sigves@uia.no 
+Torbjørn Pedersen, torbjornp@uia.no
+Nikolas Brandal, Nikolasb@uia.no
+
+Course Code & Name: IS-118 Programmering og prosjektsamarbeid
+Deliverable Title: Innleveringsoppgave 1
+Date: 22.september 2025
+
+
+## **Innhold fortegnelse:** ##
+Introduksjon
+Strategi for rekruttering og sammensetning
+Design av "det første møtet"
+Rammer for relasjonelle kontrakter
+Proaktive mekanismer for konflikthåndtering
+Håndtering av tidspress og planleggingsfellen
+
 
 ## **Introduksjon** ##
 
