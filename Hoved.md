@@ -26,10 +26,15 @@ Date: 22.september 2025
 
 ## **Innhold fortegnelse:** ##
 Introduksjon
+
 Strategi for rekruttering og sammensetning
+
 Design av "det første møtet"
+
 Rammer for relasjonelle kontrakter
+
 Proaktive mekanismer for konflikthåndtering
+
 Håndtering av tidspress og planleggingsfellen
 
 
