@@ -1,17 +1,26 @@
-### **Gruppeinnlevering 1** ###
+# **Gruppeinnlevering 1** #
 
 **Group number and student names:**
 Group 10
+
 Emma Moland Leiknes, emmaml@uia.no
+
 Kenny Minh Bui, Kennymb@uia.no 
+
 Lenia Barzan, Leniab@uia.no
+
 Lucas Fjeld, lucasf@uia.no 
+
 Sigve Sørensen, sigves@uia.no 
+
 Torbjørn Pedersen, torbjornp@uia.no
+
 Nikolas Brandal, Nikolasb@uia.no
 
 Course Code & Name: IS-118 Programmering og prosjektsamarbeid
+
 Deliverable Title: Innleveringsoppgave 1
+
 Date: 22.september 2025
 
 
