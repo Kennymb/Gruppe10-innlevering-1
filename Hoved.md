@@ -136,3 +136,7 @@ Avslutning
 Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350-383. https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf 
 
 Belbin. (n/a). The Nine Belbin Team Roles. Belbin. https://www.belbin.com/about/belbin-team-roles
+
+Similä, J. O. (2010). Kontraktsledelse: Relasjonen mellom virksomhetsledelse og kontraktshåndtering, belyst via fire norske virksomheter [Doktorgradsavhandling, Copenhagen Business School]. CBS Open Archive. https://hdl.handle.net/10419/208744 
+
+Bergh, T. H. (2017). En investeringsprosess sin påvirkning på beslutningstakning i kommunal sektor (SNF-rapport nr. R08/17). Samfunns- og næringslivsforskning AS. Hentet fra https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2573040/R08_17.pdf?sequence=1&isAllowed=y
