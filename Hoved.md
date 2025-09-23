@@ -73,7 +73,8 @@ Til slutt bør Erling som prosjektleder holde en oppsummering for hva de har god
 I de fleste prosjekter fokuser kontrakter ofte på jerntriangelet, altså tid, kostnad og kvalitet, (Bergh, 2017). Disse tre nevnte faktorene er essensielle for å holde et prosjekt gående. Dessverre er ikke jerntriangelet tilstrekkelig alene, for et tverrfaglig prosjekt, slik som Erling skal lede. Et prosjekt avhenger også blant annet av team bygging, hvordan kommunikasjonen fungerer og hvordan tillitt bygges. Det er derfor viktig å lage en relasjonell kontrakt, som kan forklares som en tydelig avtale om forventinger, roller og samarbeidsformer, (Similä, 2010).
 
 I praksis handler dette om hvordan prosjektleder og prosjekteier, og resten av teamet bør sette faste rammer på hvordan de ønsker å jobbe med hverandre. 
-En slik kontrakt bør inneholde tydelige rammer for:
+
+En slik kontrakt bør inneholde tydelige rammer som:
 
 Først og fremst bør en kontrakt si noe om rammene for kommunikasjon.  Her skal gruppen utforme en avtale om faste møtepunkter, bruk av digitale samhandling verktøy og ulike rutiner for dele informasjon med hverandre. En slik åpen kommunikasjon reduserer misforståelser, det styrker også effektiviteten og tilliten innad gruppa.
 
