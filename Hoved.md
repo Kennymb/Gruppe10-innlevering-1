@@ -42,11 +42,16 @@ Håndtering av tidspress og planleggingsfellen
 
 Å være et team byr på mange utfordringer. Spesielt når prosjektet skal utføres av mennesker med mange forskjellige erfaringer, kunnskaper og interesser. Videre skal prosjektet gjennomføres på kort tid. Akkurat dette er problemstillingen til Erling som skal lage en medborgerportal innen 15 måneder. I denne teksten har det blitt satt sammen en oppstartspakke slik at teamet skal fungere på best mulig måte. Blant annet strategi for rekruttering, utforming av relasjonelle kontrakter, konflikthåndtering, håndtering av tidspress og sikring av god kommunikasjon. I tillegg vil teksten gi forslag til det første møte. Alt dette skal hjelpe Erling til å få et velfungerende team.
 
-1. Strategi for rekruttering og sammensetning: Anbefalinger for å bemanne
-prosjektgruppen, med vekt på å balansere behovet for mangfold (ulike teamroller
-som produksjon, administrasjon, integrasjon, entreprenørskap) med behovet for
-en viss grad av sosial og demografisk likhet for å fremme tidlig tillit. Dere må
-forklare hvorfor dette er viktige momenter å ta inn i planleggingen tidlig.
+## **Strategi for rekrutering og sammensetning:** ##
+
+For at Erling skal ha suksess med prosjektet sitt er en god og gjennomtenk plan for rekrutering essensielt. Det er viktig at prosjektlederen sikrer tverrfaglig kompetanse og effektiv samhandling. Får å nå prosjektets mål om å øke innbyggerengasjementet og transparens, bør bemanningsstrategien ha en balansert tilnærming som kan kombinere funksjonelt mangfold med sosial og demografisk kompatibilitet.
+
+Et funksjonelt mangfold vil si at gruppen inkluderer ulike typer roller og fagkompetanse som sammen klarer å dekke hele prosjektets behov. I dette tilfelle anbefales det å ta utgangspunkt i fire overordnede teamroller. Administrasjon, produksjon, entreprenørskap og integrasjon. De administrative rollene fra kommunens plan og kulturavdeling kan bidra med struktur og forvaltning av budsjett og tid. Roller som er produksjonsorienterte, som ansatte fra IT avdelingen sikrer teknisk fremdrift. Entreprenørielle roller som for eksempel UX/UI designerer kan være med på å tilføre brukerfokus og innovasjon. Integrative roller, for eksempel den politiske rådgiveren, hjelper til med å sikre samspill mellom prosjektet og bystyre.
+
+Ved å sette sammen disse rollene vil prosjektets kapasitet til å håndtere kompleksitet øke, og det vil gi bedre kvalitet i både resultat og prosess (Belbin, 2025).
+Forskning viser at til at gruppemedlemmer med lik sosial og demografisk bakgrunn kan bidra til raskere etablering av tillitt og psykologisk trygghet i oppstartsfasen (Edmondson, 1999). Det vil si at hvis det ansettes personer med likheter i utdanningsbakgrunn, tidligere arbeidsrelasjoner eller arbeidsstil vil det være med på å holde etableringskostnadene i teamutvikling nede og sikre effektivitet tidlig i prosjektet. Noe som er relevant i et prosjekt med stramme tidsrammer, budsjett og leveringskrav. 
+
+Ved å kombinere sosial likhet og funksjonelt mangfold i oppstartsfasen av prosjektet, tilrettelegges det for en gruppe som kan både samarbeide godt og prestere effektivt. 
 
 2. Design av "det første møtet": Detaljerte forslag til agenda og aktiviteter for
 prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og
@@ -92,4 +97,8 @@ benytte for å sikre en god og e^ektiv kommunikasjon i teamet
 Avslutning
 
 
-Kilder
+## **Kilder 
+
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350-383. https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf 
+
+Belbin. (n/a). The Nine Belbin Team Roles. Belbin. https://www.belbin.com/about/belbin-team-roles
