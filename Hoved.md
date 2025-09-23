@@ -140,3 +140,5 @@ Similä, J. O. (2010). Kontraktsledelse: Relasjonen mellom virksomhetsledelse og
 Bergh, T. H. (2017). En investeringsprosess sin påvirkning på beslutningstakning i kommunal sektor (SNF-rapport nr. R08/17). Samfunns- og næringslivsforskning AS. Hentet fra https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2573040/R08_17.pdf?sequence=1&isAllowed=y
 
 Gjøsund, P. & Huseby, R. (2015). To eller flere: Basiskunnskaper i gruppepsykologi (4.utg.). Cappelen Damm Akademisk
+
+Jacobsen, I, D.(2016) Engangsorganisasjonen Organisering og ledelse av prosjekter (1.utg) Fagbokforlaget
