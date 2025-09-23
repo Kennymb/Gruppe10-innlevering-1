@@ -144,3 +144,7 @@ Gjøsund, P. & Huseby, R. (2015). To eller flere: Basiskunnskaper i gruppepsykol
 Jacobsen, I, D.(2016) Engangsorganisasjonen Organisering og ledelse av prosjekter (1.utg) Fagbokforlaget
 
 Det Norske Akademis ordbok. (u.å.). Metakommunikasjon. NAOB. https://naob.no/ordbok/metakommunikasjon
+
+Vi har brukt ChatGPT for å omforme noen av våre egne settninger ifølge med akademiskt bruk av AI.
+
+Vi har brukt ChatGPT for hjelp med å skrive kilder ifølge APA7 standard ifølge med akademiskt bruk av AI.
