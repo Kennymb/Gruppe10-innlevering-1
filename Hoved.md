@@ -72,21 +72,22 @@ Til slutt bør Erling som prosjektleder holde en oppsummering for hva de har god
 
 ## **Rammer for relasjonelle kontrakter:**
 
-I de fleste prosjekter fokuser kontrakter ofte på jerntriangelet, altså tid, kostnad og kvalitet, (Bergh, 2017). Disse tre nevnte faktorene er essensielle for å holde et prosjekt gående. Dessverre er ikke jerntriangelet tilstrekkelig alene, for et tverrfaglig prosjekt, slik som Erling skal lede. Et prosjekt avhenger også blant annet av team bygging, hvordan kommunikasjonen fungerer og hvordan tillitt bygges. Det er derfor viktig å lage en relasjonell kontrakt, som kan forklares som en tydelig avtale om forventinger, roller og samarbeidsformer, (Similä, 2010). 
+I de fleste prosjekter fokuser kontrakter ofte på jerntriangelet, altså tid, kostnad og kvalitet, (Bergh, 2017). Disse tre nevnte faktorene er essensielle for å holde et prosjekt gående. Dessverre er ikke jerntriangelet tilstrekkelig alene, for et tverrfaglig prosjekt, slik som Erling skal lede. Et prosjekt avhenger også blant annet av team bygging, hvordan kommunikasjonen fungerer og hvordan tillitt bygges. Det er derfor viktig å lage en relasjonell kontrakt, som kan forklares som en tydelig avtale om forventinger, roller og samarbeidsformer, (Similä, 2010).
 
 I praksis handler dette om hvordan prosjektleder og prosjekteier, og resten av teamet bør sette faste rammer på hvordan de ønsker å jobbe med hverandre. 
 En slik kontrakt bør inneholde tydelige rammer for:
 
-Kommunikasjon: Her skal gruppen utforme en avtale om faste møtepunkter, bruk av digitale samhandling verktøy og ulike rutiner for dele informasjon med hverandre. En slik åpen kommunikasjon reduserer misforståelser, det styrker også effektiviteten og tilliten innad gruppa.
+Først og fremst bør en kontrakt si noe om rammene for kommunikasjon.  Her skal gruppen utforme en avtale om faste møtepunkter, bruk av digitale samhandling verktøy og ulike rutiner for dele informasjon med hverandre. En slik åpen kommunikasjon reduserer misforståelser, det styrker også effektiviteten og tilliten innad gruppa.
 
-Roller og ansvar: Teamet er nødt til å lage klare forventninger til hvem som tar beslutninger, hvordan prosjektleder rapporter til prosjekteier, og hvordan brukerrepresentanter inkluderes. Dette er med på å redusere usikkerhet i gruppa og skaper i tillegg trygghet under arbeidsprosessen. 
+For det andre bør kontrakten inneholde tydelige rammer for roller og ansvar. Teamet er nødt til å lage klare forventninger til hvem som tar beslutninger, hvordan prosjektleder rapporter til prosjekteier, og hvordan brukerrepresentanter inkluderes. Dette er med på å redusere usikkerhet i gruppa og skaper i tillegg trygghet under arbeidsprosessen. 
 
-Konflikthåndtering: Teamet må utforme prosedyrer for å løse uenigheter tidlig, slik at man kan unngå eskalering. 
+I tillegg bør kontrakten si noe om konflikthåndtering. Når en jobber i et team er det veldig sannsynlig at gruppa kommer til å møte på uenigheter. Derfor er det viktig at teamet må utforme prosedyrer for å løse uenigheter tidlig, slik at man kan unngå eskalering. 
 
-Samarbeids normer: En rasjonell kontrakt vektlegge samarbeidet og normene som kommer med. Dette innebærer å forplikte seg til verdier som å respektere hverandre, åpenhet og tillitt, som er det mest grunnleggende i et slikt prosjekt.
+Videre burde teamet komme i en enighet om å være fleksible. Her skal gruppa komme i en enighet om hvordan en skal håndtere uforutsette forandringer i rammer og krav, samtidig som teamet ivaretar de gitte rammene eller hovedmålet.
 
-Ved å ha med disse rammene i kontrakten deres, vil kontrakten ikke anses som en juridisk kontrakt lenger, men som en slags sosial forpliktelse. For Erlings prosjekt og andre heterogene team er disse rammene essensielle for å ta med de ulike interessene og faglige perspektivene i betraktning, og for at prosjektet skal lykkes. 
+Til slutt bør en relasjonell kontrakt omfatte samarbeids normer. Dette innebærer å forplikte seg til verdier som å respektere hverandre, åpenhet og tillitt, som er det mest grunnleggende i et slikt prosjekt.
 
+Ved å ha med disse rammene i kontrakten deres, vil ikke lenger anses som en juridisk kontrakt, men også som en slags sosial forpliktelse. For Erlings prosjekt og andre heterogene team er disse rammene essensielle for å ta med de ulike interessene og faglige perspektivene i betraktning, og for at prosjektet skal lykkes. 
 
 
 ## **Proaktive mekanismer for konflikthåndtering:** ##
