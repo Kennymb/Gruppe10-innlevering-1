@@ -18,8 +18,9 @@ prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og
 arbeidsfordeling, og inkludere viktigheten av "pseudo-arbeid" for
 relasjonsbygging. DETTE HER TOBJØRN SIN DEL
 
-Design av det første møtet
-Det første møtet er viktig, her blir grunnlaget for arbeidet videre gjennom prosjektet utviklet. Det første møtet kan ta lang tid, så det er viktig med mange pauser.
+## **Design av det første møtet** ##
+
+ Det første møtet er viktig, her blir grunnlaget for arbeidet videre gjennom prosjektet utviklet. Det første møtet kan ta lang tid, så det er viktig med mange pauser.
 
 Møtet bør bli startet med en velkomst hilsen fra prosjektlederen Erling, og videre hvor han introduserer seg selv til resten av gruppen. Etter prosjektleder blir resten av arbeidsgruppen introdusert til hværandre, her blir også alle klar over hver sine roller i prosjektet.
 Nå, og seinere gjennom prosjektet kan det være viktig med psuedo-arbeid, dette trenger nødvendigvis ikke være relevant til selve oppgaven, fordi psuedo-arbeid sitt hovedoppgave er å bygge på relasjoner i gruppen, kanskje noe kort spill? Eller små oppgaver som å rydde/vaske kontor?. På denne måten blir folk i gruppen tryggere på hverandre.
