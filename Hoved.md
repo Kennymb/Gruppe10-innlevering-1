@@ -89,7 +89,7 @@ Kort sagt handler det om å bruke planlegging som et levende verktøy: tydelig r
 6. Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kan
 benytte for å sikre en god og e^ektiv kommunikasjon i teamet
 
-Avslutning
-
+## **Konklusjon** ##
+For å oppsummere, er prosjektets resultat avhengig av et godt samarbeid baster på tydelig rammer og roller. Prosjektet må ha en god rekrutteringsstrategi for å sikre tverrfaglig kompetanse og for å forbedre kapasiteten til å håndtere komplekse utfordringer. Tverrfaglighet skal forbedre tilnærming til problemstillingen. Det første møte er viktig for gi best mulig grunnlag for videre samarbeid. Videre gir en relasjonell kontrakt tydeligere forventinger og regler for samhandling mellom mennesker i prosjektet. I tillegg gir teksten verktøy for konflikthåndtering slik at konflikter ikke eskaleres. Deretter er det viktig å bruke planlegging som et verktøy for å balansere tidspresset og unngå planleggingsfellen. Til slutt, understrekes god kommunikasjon og forstå hvordan kommunikasjon kan hindre og forbedre utvikling av et prosjekt. Alt dette er viktig for at prosjektet skal lykkes.
 
 Kilder
