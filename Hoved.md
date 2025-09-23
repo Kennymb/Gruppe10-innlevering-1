@@ -25,7 +25,7 @@ Date: 22.september 2025
 
 
 ## **Innhold fortegnelse:** ##
-Introduksjon
+Introduksjon.
 
 Strategi for rekruttering og sammensetning.
 
@@ -115,7 +115,7 @@ Til slutt er det avgjørende å sikre fleksibilitet også i dialogen med bystyre
 Kort sagt handler det om å bruke planlegging som et levende verktøy: tydelig retning, små tidlige leveranser og fleksibilitet underveis. Dette gjør det mulig å balansere tidspresset med behovet for læring, og reduserer risikoen for å havne i planleggingsfellen.
 
 
-## *Sikring av god kommunikasjon:**
+## **Sikring av god kommunikasjon:**
 
 Kommunikasjon er en grunnleggende forutsetning for at en prosjektgruppe skal fungere godt. Dette blir særlig viktig når gruppen består av personer med ulik fagbakgrunn, slik tilfellet ofte er i tverrfaglige prosjekter. For å lykkes må prosjektlederen etablere tydelige kanaler for kommunikasjon, slik at budskapet kan formidles effektivt fra avsender til mottaker (Gjøsund, Huseby, s.64). Denne prosessen kan foregå både muntlig og skriftlig, men valg av kanal vil i stor grad påvirke hvordan budskapet forstås og brukes i prosjektet. 
 
