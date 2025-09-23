@@ -118,7 +118,7 @@ Kommunikasjon henger også tett sammen med andre aspekter ved prosjektstyring. D
 Avslutning
 
 
-## **Kilder 
+## **Kilder** 
 
 Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350-383. https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf 
 
