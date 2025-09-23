@@ -18,6 +18,17 @@ prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og
 arbeidsfordeling, og inkludere viktigheten av "pseudo-arbeid" for
 relasjonsbygging. DETTE HER TOBJØRN SIN DEL
 
+Design av det første møtet
+Det første møtet er viktig, her blir grunnlaget for arbeidet videre gjennom prosjektet utviklet. Det første møtet kan ta lang tid, så det er viktig med mange pauser.
+
+Møtet bør bli startet med en velkomst hilsen fra prosjektlederen Erling, og videre hvor han introduserer seg selv til resten av gruppen. Etter prosjektleder blir resten av arbeidsgruppen introdusert til hværandre, her blir også alle klar over hver sine roller i prosjektet.
+Nå, og seinere gjennom prosjektet kan det være viktig med psuedo-arbeid, dette trenger nødvendigvis ikke være relevant til selve oppgaven, fordi psuedo-arbeid sitt hovedoppgave er å bygge på relasjoner i gruppen, kanskje noe kort spill? Eller små oppgaver som å rydde/vaske kontor?. På denne måten blir folk i gruppen tryggere på hverandre.
+Deretter er det på tide at Erlin presenterer prosjektet. Hva problem har kommunen?. Hvordan ønsker de løsning på problemet? Hva ønsker de å opnå med denne løsningen, budsjett på 8millioner kroner også tidsrammen deres på 15 månder. Hvilken arbeidsmetodikk gruppen skal følge og måten for kommunikasjon mellom grupper er også viktig å tydliggjøre nå, eks: Agile Sprint metodikk og arbeid blir kontrollert gjennom Git og GitHub.
+Videre etter at prosjektet har blit presentert, er det viktig for Erling å tydliggjøre hverandre sine roller og ansvar i gruppen, slik at alle er klar over hvem som har ansvar for og gjør hva.
+
+Til slutt bør Erling som prosjektleder holde en oppsummering for hva de har godt gjennom slik at alle er klar over hva som har blit klargjort så langt, eller stille spørsmål. Nå bør Erling også påpeke de neste målene fremover for prosjektet.
+
+
 3. Rammer for relasjonelle kontrakter: Anbefalinger for utforming av kontrakter
 eller mandater som ikke bare fokuserer på "jerntriangelet" (tid, kostnad, kvalitet),
 men også på relasjonelle forhold og hvordan samarbeidet mellom prosjekteier
