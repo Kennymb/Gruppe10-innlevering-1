@@ -48,7 +48,7 @@ For at Erling skal ha suksess med prosjektet sitt er en god og gjennomtenk plan 
 
 Et funksjonelt mangfold vil si at gruppen inkluderer ulike typer roller og fagkompetanse som sammen klarer å dekke hele prosjektets behov. I dette tilfelle anbefales det å ta utgangspunkt i fire overordnede teamroller. Administrasjon, produksjon, entreprenørskap og integrasjon. De administrative rollene fra kommunens plan og kulturavdeling kan bidra med struktur og forvaltning av budsjett og tid. Roller som er produksjonsorienterte, som ansatte fra IT avdelingen sikrer teknisk fremdrift. Entreprenørielle roller som for eksempel UX/UI designerer kan være med på å tilføre brukerfokus og innovasjon. Integrative roller, for eksempel den politiske rådgiveren, hjelper til med å sikre samspill mellom prosjektet og bystyre.
 
-Ved å sette sammen disse rollene vil prosjektets kapasitet til å håndtere kompleksitet øke, og det vil gi bedre kvalitet i både resultat og prosess (Belbin, 2025).
+Ved å sette sammen disse rollene vil prosjektets kapasitet til å håndtere kompleksitet øke, og det vil gi bedre kvalitet i både resultat og prosess (Belbin, N/A).
 Forskning viser at til at gruppemedlemmer med lik sosial og demografisk bakgrunn kan bidra til raskere etablering av tillitt og psykologisk trygghet i oppstartsfasen (Edmondson, 1999). Det vil si at hvis det ansettes personer med likheter i utdanningsbakgrunn, tidligere arbeidsrelasjoner eller arbeidsstil vil det være med på å holde etableringskostnadene i teamutvikling nede og sikre effektivitet tidlig i prosjektet. Noe som er relevant i et prosjekt med stramme tidsrammer, budsjett og leveringskrav. 
 
 Ved å kombinere sosial likhet og funksjonelt mangfold i oppstartsfasen av prosjektet, tilrettelegges det for en gruppe som kan både samarbeide godt og prestere effektivt. 
@@ -135,7 +135,7 @@ Avslutning
 
 Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350-383. https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf 
 
-Belbin. (n/a). The Nine Belbin Team Roles. Belbin. https://www.belbin.com/about/belbin-team-roles
+Belbin. (n/a). The Nine Belbin Team Roles. Belbin. https://www.belbin.com/about/belbin-team-roles Hentet fra nettsiden 23.09.2025
 
 Similä, J. O. (2010). Kontraktsledelse: Relasjonen mellom virksomhetsledelse og kontraktshåndtering, belyst via fire norske virksomheter [Doktorgradsavhandling, Copenhagen Business School]. CBS Open Archive. https://hdl.handle.net/10419/208744 
 
