@@ -57,11 +57,11 @@ Ved å kombinere sosial likhet og funksjonelt mangfold i oppstartsfasen av prosj
 
  Det første møtet er viktig, her blir grunnlaget for arbeidet videre gjennom prosjektet utviklet. Det første møtet kan ta lang tid, så det er viktig med mange pauser.
 
-Møtet bør bli startet med en velkomst hilsen fra prosjektlederen Erling, og videre hvor han introduserer seg selv til resten av gruppen. Etter prosjektleder blir resten av arbeidsgruppen introdusert til hværandre, her kan de ansatte bli mer kjent med hverandre sine erfaringer og roller.
+Møtet bør starte med en velkomst hilsen fra prosjektlederen Erling, og videre hvor han introduserer seg selv til resten av gruppen. Etter prosjektleder blir resten av arbeidsgruppen introdusert til hværandre, her kan de ansatte bli mer kjent med hverandre sine erfaringer og roller.
 
-Nå, og senere gjennom prosjektet kan det være viktig med psuedo-arbeid, dette trenger nødvendigvis ikke være relevant til selve oppgaven, fordi psuedo-arbeid sinn hovedoppgave er å bygge på relasjoner i gruppen, dette kan være små prat som ka folk gjorde i helgen? eller andre ting som ikke er så spesielt relevant for oppgaven, på denne måten blir folk i gruppen tryggere på hverandre (Jacobsen, 2016, s37).
+Nå, og senere gjennom prosjektet kan det være viktig med psuedo-arbeid, dette trenger nødvendigvis ikke være relevant til selve oppgaven, fordi psuedo-arbeid sinn hovedoppgave er å bygge på relasjoner i gruppen, dette kan være små prat som ka folk gjorde i helgen? eller andre ting som ikke er så spesielt relevant for oppgaven, på denne måten blir folk i gruppen tryggere på hverandre (Jacobsen, 2016, s37). I løpet av det første møtet er det viktig å også prate om hvordan, og på hvordan måte gruppen skal kommunisere med hverandre, dette kalles for metakommunikasjon. Her bestemmer gruppen seg for kommunikasjonsverktøy som discord, Zoom, Teams osv... samt metoden og tonen av hva som er akseptabel og ikke akseptabel måte å kommunisere på (Det Norske Akademis Ordbok, u.å.)
 
- Deretter er det på tide at Erling presenterer prosjektet. Hva problem har kommunen? Hvordan ønsker de løsning på problemet? Hva ønsker de å opnå med denne løsningen, budsjett på 8millioner kroner også tidsrammen deres på 15 månder. Hvilken arbeidsmetodikk gruppen skal følge og måten for kommunikasjon mellom grupper er også viktig å tydliggjøre nå, dette kan være for eksempel Agile Sprint metodikk og arbeid blir kontrollert gjennom Git og GitHub. Dette følger også en LEAN arbeidsmåte, LEAN vil omfatte tidsrom for både handlingsplan, samhandlingsplan, pseudo-arbeid, første møtet og tidsrammen for videre ut prosjektet (Jacobsen, 2016, s38).
+ Deretter er det på tide at Erling presenterer prosjektet. Hva problem har kommunen? Hvordan ønsker de løsning på problemet? Hva ønsker de å opnå med denne løsningen, budsjett på 8millioner kroner også tidsrammen deres på 15 månder. Hvilken arbeidsmetodikk gruppen skal følge og måten for kommunikasjon mellom grupper er også viktig å tydliggjøre nå, dette kan være for eksempel Agile Sprint metodikk og arbeid blir kontrollert gjennom Git og GitHub. Dette følger også en LEAN arbeidsmåte, LEAN vil omfatte tidsrom for både handlingsplan, samhandlingsplan, pseudo-arbeid, første møtet og tidsrammen for videre ut prosjektet. (Jacobsen, 2016, s38).
 
 Videre etter at prosjektet har blit presentert, er det viktig for Erling å tydliggjøre hverandre sine roller og ansvar i gruppen, slik at alle er klar over hvem som har ansvar for og gjør hva.
 
@@ -142,3 +142,5 @@ Bergh, T. H. (2017). En investeringsprosess sin påvirkning på beslutningstakni
 Gjøsund, P. & Huseby, R. (2015). To eller flere: Basiskunnskaper i gruppepsykologi (4.utg.). Cappelen Damm Akademisk
 
 Jacobsen, I, D.(2016) Engangsorganisasjonen Organisering og ledelse av prosjekter (1.utg) Fagbokforlaget
+
+Det Norske Akademis ordbok. (u.å.). Metakommunikasjon. NAOB. https://naob.no/ordbok/metakommunikasjon
