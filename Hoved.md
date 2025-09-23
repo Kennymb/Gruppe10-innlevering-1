@@ -129,8 +129,8 @@ Videre er håndtering av støy like viktig. Det er to forskjellige typer støy, 
 
 Kommunikasjon henger også tett sammen med andre aspekter ved prosjektstyring. Den fungerer som et gjennomgående virkemiddel for konflikthåndtering, fleksibel planlegging og relasjonsbygging. Klare rutiner for informasjonsflyt bidrar til å tydeliggjøre roller, forebygge eskalering av uenigheter og sikre forståelse både internt og eksternt. På denne måten kan prosjektgruppen utvikle en felles forståelse og et kollektivt eierskap til prosjektets mål. 
 
-Avslutning
-
+## **Konklusjon** ##
+For å oppsummere, er prosjektets resultat avhengig av et godt samarbeid baster på tydelig rammer og roller. Prosjektet må ha en god rekrutteringsstrategi for å sikre tverrfaglig kompetanse og for å forbedre kapasiteten til å håndtere komplekse utfordringer. Tverrfaglighet skal forbedre tilnærming til problemstillingen. Det første møte er viktig for gi best mulig grunnlag for videre samarbeid. Videre gir en relasjonell kontrakt tydeligere forventinger og regler for samhandling mellom mennesker i prosjektet. I tillegg gir teksten verktøy for konflikthåndtering slik at konflikter ikke eskaleres. Deretter er det viktig å bruke planlegging som et verktøy for å balansere tidspresset og unngå planleggingsfellen. Til slutt, understrekes god kommunikasjon og forstå hvordan kommunikasjon kan hindre og forbedre utvikling av et prosjekt. Alt dette er viktig for at prosjektet skal lykkes.
 
 ## **Kilder:** 
 
