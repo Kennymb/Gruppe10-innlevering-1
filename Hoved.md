@@ -85,7 +85,7 @@ Konflikthåndtering: Teamet må utforme prosedyrer for å løse uenigheter tidli
 
 Samarbeids normer: En rasjonell kontrakt vektlegge samarbeidet og normene som kommer med. Dette innebærer å forplikte seg til verdier som å respektere hverandre, åpenhet og tillitt, som er det mest grunnleggende i et slikt prosjekt.
 
-Ved å ha med disse rammene i kontrakten deres, vil ikke lenger anses som en juridisk kontrakt, men også som en slags sosial forpliktelse. For Erlings prosjekt og andre heterogene team er disse rammene essensielle for å ta med de ulike interessene og faglige perspektivene i betraktning, og for at prosjektet skal lykkes. 
+Ved å ha med disse rammene i kontrakten deres, vil kontrakten ikke anses som en juridisk kontrakt lenger, men som en slags sosial forpliktelse. For Erlings prosjekt og andre heterogene team er disse rammene essensielle for å ta med de ulike interessene og faglige perspektivene i betraktning, og for at prosjektet skal lykkes. 
 
 
 
@@ -140,3 +140,5 @@ Belbin. (n/a). The Nine Belbin Team Roles. Belbin. https://www.belbin.com/about/
 Similä, J. O. (2010). Kontraktsledelse: Relasjonen mellom virksomhetsledelse og kontraktshåndtering, belyst via fire norske virksomheter [Doktorgradsavhandling, Copenhagen Business School]. CBS Open Archive. https://hdl.handle.net/10419/208744 
 
 Bergh, T. H. (2017). En investeringsprosess sin påvirkning på beslutningstakning i kommunal sektor (SNF-rapport nr. R08/17). Samfunns- og næringslivsforskning AS. Hentet fra https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2573040/R08_17.pdf?sequence=1&isAllowed=y
+
+Gjøsund, P. & Huseby, R. (2015). To eller flere: Basiskunnskaper i gruppepsykologi (4.utg.). Cappelen Damm Akademisk
