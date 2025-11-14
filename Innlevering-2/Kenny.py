@@ -63,7 +63,7 @@ elif Valg2 == "3":
 if Poengsum >= 60:
     print("\nSLUTT BRA:")
     print("Erling har klart å løse konfliktene profesjonelt, teamet er tilbake til normal og prosjektet fortsetter som vanlig.")
-    print("\nErling er fornøyd, å ønsker å ha en liten feiring.")
+    print("\nErling er fornøyd, og ønsker å heve motivasjonen enda høyere.")
     Valg3 = input("\nHva skal Erling finne på? \n1: Samle alle på byen \n2: Bestille kake til kontoret \n3: Erling spanderer lunsj")
 
     if Valg3 == "1":
@@ -73,7 +73,7 @@ if Poengsum >= 60:
         print("\nErling bestiller kake, og teamet har en hyggelig pause på jobb.")
     
     elif Valg3 == "3":
-        print("\nErling spanderer lunsj, og alle koser seg.")
+        print("\nErling spanderer lunsj, teamet nyter en deilig lunsj, og moralen heves.")
 
 elif 10 <= Poengsum <= 40:
     print("\nSlutt middels:")
