@@ -4,6 +4,7 @@
 # SOLUTION: Løs konflikten ved å bruke if, else og elif
 
 
+
 def alternativ_losning_på_konflikten_mellom_silje_og_sivert():
     print("Hvordan kan vi løse denne konflikten mellom Silje og Sivert?")
     valg = input(
