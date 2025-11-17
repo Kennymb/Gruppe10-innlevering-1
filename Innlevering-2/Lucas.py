@@ -1,118 +1,115 @@
-Path = 0
-Dict = {
+Dict = { 
+# Ordliste som inneholder alle tre konfliktene og valgmulighet. Grunne jeg valgte dette over lister er at jeg kan gjør alt på en variabel.
     "Konflikt1": {
         "action": (
-            "Konflikt 1:\n"
-            "Silje (UX/UI-designer) og Sivert (IT-rådgiver) har havnet i en stadig mer opphetet diskusjon "
-            "om teknologi og designvalg. Det som startet som en faglig uenighet, har nå blitt personlig.\n"
+            "Silje og Sivert har havnet i en stadig mer opphetet diskusjon.\n"
             "Hvordan bør Erling håndtere situasjonen?"
         ),
         "options": [
-            "Be Silje og Sivert sette seg ned sammen for å finne et kompromiss og minne dem på at målet er felles.",
-            "Ta saken opp i plenum slik at hele teamet kan si hva de mener.",
-            "Ignorere konflikten og håpe at de ordner opp på egen hånd."
-        ],
-        "Konsekvens": [
-            "Begge blir hørt, og de finner en løsning de kan leve med. Stemningen i teamet blir bedre.",
-            "Diskusjonen sklir fort ut. Noen tar parti, og stemningen i gruppa blir mer spent.",
-            "Konflikten ligger og ulmer. Kommunikasjonen stopper nesten helt opp, men prosjektet fortsetter så vidt."
+            "Be Silje og Sivert finne et kompromiss og minne dem på felles mål.",
+            "Ta saken opp i plenum for å få alle perspektiver.",
+            "Ignorere konflikten og håpe den løser seg selv."
         ],
         "correct": 1
     },
 
     "Konflikt2": {
         "action": (
-            "Konflikt 2:\n"
-            "Hamdi (kulturavdelingen) vil bruke kommunens faste plattform for innbyggerdialog, "
-            "mens Jabir (innbyggerforeningen) ønsker en mer åpen løsning med rom for spontane innspill.\n"
-            "Hvordan bør Erling gripe inn før konflikten vokser?"
+            "Hamdi vil bruke kommunens plattform, mens Jabir ønsker en mer åpen løsning.\n"
+            "Hvordan bør Erling gripe inn?"
         ),
         "options": [
-            "Ta det opp med hele gruppa og prøve å finne en løsning som kombinerer trygghet og åpenhet.",
-            "La dem ordne det selv de er voksne folk.",
-            "Ta en beslutning på egen hånd uten å involvere dem mer."
-        ],
-        "Konsekvens": [
-            "Begge føler seg hørt, og teamet blir enige om en balanse mellom struktur og frihet. Tilliten styrkes.",
-            "Konflikten forsvinner ikke, men blir liggende og ulme. Stemningen blir anspent.",
-            "Den ene parten føler seg overkjørt, og motivasjonen synker. Løsningen holder kanskje teknisk, men ikke sosialt."
+            "Ta saken med hele gruppa og finne en balansert løsning.",
+            "La Hamdi og Jabir ordne opp selv.",
+            "Bestemme løsningen alene uten videre dialog."
         ],
         "correct": 1
     },
 
     "Konflikt3": {
         "action": (
-            "Konflikt 3:\n"
-            "Etter flere runder med konflikter merker Erling at motivasjonen i teamet er lav. "
-            "Folk virker slitne og distanserte.\n"
-            "Hva kan han gjøre for å få opp humøret og samarbeidet igjen?"
+            "Teamet er slitent og motivasjonen er lav.\n"
+            "Hva bør Erling gjøre?"
         ),
         "options": [
-            "Tvinge alle til å delta på en lang forelesning om kommunikasjon og samarbeid.",
-            "Stramme inn på struktur og disiplin fokusere kun på resultater og leveranser.",
-            "Arrangere en sosial kveld, som et julebord med faste plasser, for å skape bedre samhold og bryte ned små klikker."
-        ],
-        "Konsekvens": [
-            "Folk får snakket sammen og blir bedre kjent. Stemningen løsner, og samarbeidet flyter lettere etterpå.",
-            "Lite engasjement og tvungen stemning. Folk lærer kanskje noe, men det endrer ikke så mye i praksis.",
-            "Stemningen blir enda mer anspent. Noen føler seg overkjørt, og det går utover motivasjonen."
+            "Holde en lang forelesning om samarbeid.",
+            "Stramme inn struktur og kun fokusere på resultater.",
+            "Arrangere en sosial kveld for å styrke relasjoner."
         ],
         "correct": 3
     }
 }
-#Tester
-def valg(diction_key, path):
-    data = Dict[diction_key]
 
-    print("\n" + data["action"])
+
+# Denne funksjonen håndterer en konflikt om gangen. Den skriver ut teksten, viser
+# alternativene og sørger for at brukeren velger et tall mellom 1 og 3. Til slutt
+# returnerer den hvilket valg som ble tatt, slik at programmet kan sjekke om det var
+# det korekte valget for historien.
+
+def valg(key): 
+    data = Dict[key]
+
+    print( data["action"])
     for i, option in enumerate(data["options"], start=1):
         print(f"{i}: {option}")
-
+   
     while True:
         try:
-            question = int(input("Hva skal gjøres? (Skriv nummer 1-3): "))
-            if question == 1 or question == 2 or question == 3:
+            question = int(input("Hva skal gjøres? (1-3): "))
+            if question in (1, 2, 3):
                 break
-            else:
-                print("Ugyldig valg. Skriv 1, 2 eller 3.")
-        except ValueError:
-            print("Støtter kun nummer. Prøv igjen.")
+            print("Ugyldig valg. Skriv 1, 2 eller 3.")
+        except ValueError: #Forhindrer at koden breaker hvis bruker skriver noe annet en int verdi
+            print("Skriv et gyldig tall (1-3).")
 
-    print("\nKonsekvens:", data["Konsekvens"][question - 1])
+    return question
 
-    if question == 1:
-        path = 1
-    elif question == 2:
-        path = 2
-    elif question == 3:
-        path = 3
+good = 0  #Variabel for antall korrekte valg brukeren har tatt
 
-    return path, question
+#Introduksjon
+print("Velkommen til Erlings verden")
+print("Du har laget en medborgersportal og skal nå utvikle teamet ditt.")
+print("Det er flere konflikter som brygger og dine valg vil påvirke prosjektets suksess")
 
-good = 0
-
-Path, q1 = valg("Konflikt1", Path)
-if q1 == Dict["Konflikt1"]["correct"]:
+#Konflikt 1 og konsekvens
+quest1 = valg("Konflikt1")
+if quest1 == Dict["Konflikt1"]["correct"]:
     good += 1
 
-Path, q2 = valg("Konflikt2", Path)
-if q2 == Dict["Konflikt2"]["correct"]:
+if quest1 == Dict["Konflikt1"]["correct"]:
+    print("Stemningen mellom Silje og Sivert roer seg noe, og resten av teamet merker at du tar ansvar.")
+else:
+    print("Konflikten mellom Silje og Sivert henger i lufta, og flere i teamet blir mer usikre og stille.")
+
+if quest1 != Dict["Konflikt1"]["correct"]:
+    print("Den ulmende konflikten gjør at Hamdi og Jabir blir ekstra følsomme for urettferdighet i beslutninger.")
+
+#Konflikt 2 og konsekvens
+print()
+quest2 = valg("Konflikt2")
+if quest2 == Dict["Konflikt2"]["correct"]:
     good += 1
 
-Path, q3 = valg("Konflikt3", Path)
-if q3 == Dict["Konflikt3"]["correct"]:
-    good += 1
+if quest2 == Dict["Konflikt2"]["correct"]:
+    print("Etter møtet med Hamdi og Jabir opplever flere at du prøver å balansere ulike behov.")
+else:
+    print("Uenigheten mellom Hamdi og Jabir gjør at motivasjonen synker litt i gruppa.")
 
 if good >= 2:
-    print(
-        "balansert interessene og levert en løsning kommunen har tillit til."
-    )
-elif good == 1:
-    print(
-        "Prosjektet blir levert, men med noen skader på tillit og samarbeid."
-    )
+    print("Til tross for noen tøffe diskusjoner har teamet fortsatt tro på prosjektet.")
 else:
-    print(
-        "Konflikter og valg underveis fører til svak løsning og redusert tillit."
-    )
+    print("Flere konflikter er dårlig håndtert, og teamet er mer slitne enn før.")
 
+#Konflikt 3 og avsluttning
+print()
+quest3 = valg("Konflikt3")
+if quest3 == Dict["Konflikt3"]["correct"]:
+    good += 1
+
+print("\n Resultat")
+if good >= 2:
+    print("Erling balanserer interessene, teamet gjenoppretter tillit og får et bra resultat.")
+elif good == 1:
+    print("Prosjektet leveres, men konfliktene er bare delvis løst og relasjonene er sårbare noe som går utover kvaliteten.")
+else:
+    print("Konflikter fører til svak løsning, redusert tillit og forsinket prosjekt.")
