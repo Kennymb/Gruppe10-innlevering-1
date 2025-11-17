@@ -11,19 +11,24 @@ konflikt="Silje og Sivert"
 while True:
     if konflikt== "Silje og Sivert":
         print("Hvordan skal du løse konflikten? ")
-        print("A) Kjefte på Silje")
-        print("B) Sette deg ned med begge to og snakke om det ")
+        print("A) Snakk med begge og prøve å finne et felles forslag")
+        print("B) Kall inn til et møte med en gang og snakk om konflikten")
+        print("C) Ta deg en kopp kaffi")
         valg1= input().upper()
 
-        if valg1 == "A":
-            score-=25
-            print("Du går bort til Silje og sier 'Du er en voksen dame, hva er du holder på, skjerp deg'")
-            print("*Silje vil huske dette*")
+        if valg1 == "B":
+            score+=25
+            print("*Du kaller inn til et møte*")
+            print("Okei folkens, så vi har et problem vi må ta opp")
+            print("Husk at vi skal holde en profesjonell oppførsel på jobb")
+            print("*Siver og Silje rødmer av oppførselen sin*")
+            print("*Teamet blir ikke no nærmere")
+            print()
             
             konflikt="Hamdi og Jabir"
             continue
 
-        elif valg1== "B":
+        elif valg1== "A":
             score+=100
             print("Du går bort til Silje og ber om å snakke med ho på kontoret")
             print("Du sier til Silje 'Jeg skjønner at ting er vanskelig akkurat nå, men kanskje vi kan prøve å komme til et kompromiss?'")
@@ -32,6 +37,18 @@ while True:
             print("*Silje og Sivert blir venner igjen*")
             konflikt="Hamdi og Jabir"
             continue
+
+        elif valg1== "C":
+            score+=0
+            print("Du går bort og tar deg en kopp kaffi, det er altfor tidlig å med drama nå")
+            print("*Konflikten utvikler seg*")
+            konflikt="Hamdi og Jabir"
+            continue
+        
+        else:
+            print("Velg et svar")
+            konflikt="Silje og Sivert"
+
 
 
     if konflikt== "Hamdi og Jabir":
@@ -44,38 +61,42 @@ while True:
         print("Jabir svarer med 'Norge er et fritt og demokratisk land vi burde stole på dem'")
         print("Du merker at spenningen går mot en klimaks og motivasjonen vil kræsje hvis du ikke gjør noe")
         print("Hva gjør du?")
-        print("A)Sier de skal fikse opp i det selv")
-        print("B)Ta en autoritært valg")
-        print("C)Høre begge sine sider")
+        print("A)Tar et demokratisk valg")
+        print("B)Ta deg en kopp kaffi")
+        print("C)Ta et autoritært valg")
         valg2=input().upper()
 
         if valg2=="A":
-            score+=0
-            print("Dette har vi ikke tid til, fiks opp i det selv og kom til en løsning")
-            print()
-            print("*Rommet blir stille*")
-            print("Person kremter 'Ja skal vi snakke om fristen'")
-            print()
+            score+=50
+            print("Da har vi enda et møte")
+            print("Hamdi og Jabir er uenig om noe, så kan vi da stemme over hva folk synes er best")
+            print("*Folk stemmer*")
+            print("Ser ut som folk foretrekker å ha et kontrollert samarbeid med innbyggerne")
+            print("*Jabir er ufornøyd - det er jo han som skal opprettholde dette forholdet med innbyggerne*")
             konflikt="Motivasjon"
             continue
         
         elif valg2=="B":
-            score+=50
-            print("'Ja men vi er jo et demokratisk land derfor bestemmer jeg å inkludere menneskene i en åpen løsning")
-            print("'Likevel er det viktig at det er litt kontroll derfor gjør vi dette...'")
-            print("Hamdi sitt fjes sier at han ikke er helt fornøyd, mens Jabir er litt usikker på hvordan det her skal fungere")
+            score+=0
+            print("'Jo da var det vel kaffi pause' sier du til deg selv")
+            print("*konflikten utvikler seg*")
+            print()
+            
             konflikt="Motivasjon"
             continue
         elif valg2=="C":
-            score+=100
+            score+=50
             print("'Okay hvorfor mener du det er viktig med en åpen løsning Jabir' sier du")
             print("Jabir forklarer")
-            print("'Okay jeg forstår, hva med deg Hamdi' sier du")
+            print("'Okay jeg forstår, hva med deg Hamdi'sier du")
             print("Hamdi forklarer")
-            print("Jeg forstår, er det en mulighet for å bruke begge disse ideene?")
-            print("*Møtet fortesetter med en åpen diskusjon for å komme fram til en felles løsning*")
+            print("Jeg forstår, jeg tror vi burde stole på innbyggerne våre")
+            print("*Hamdi virker ufornøyd men stoler på din dømmekraft som leder*")
             konflikt="Motivasjon"
             continue
+        else:
+            print("Velg et riktig svar")
+            konflikt="Hamdi og Jabir"
     
     if konflikt=="Motivasjon":
         print()
@@ -83,7 +104,7 @@ while True:
         print()
         print("A)Du tar alle ut for en felles fest med 3 drikke bonger")
         print("B)Du tvinger alle inn på et 3 timers lang møte for å snakke om åpen kommuinkasjon")
-        print("C)Du gjør ingenting siden det er snart frist uansett")
+        print("C)Motivasjon? Finnes bare disiplin")
         valg3=input().upper()
         
         if valg3=="A":
@@ -104,11 +125,15 @@ while True:
             continue
 
         elif valg3=="C":
-            score+=25
-            print("Ting fortsetter som før og siden du ikke har tatt noe initiativ for å fobedre ting stiger misnøyen")
+            score+=0
+            print("Du er klar over at motivasjonen ikke er på topp, men du vet fra egen erfaring at dispilin er hva som drar et prosjekt framover")
+            print("og som sjef, så vet jo du best")
             print("Spesielt Silje går rundt i chatrom og snakker om å bytte ut sjefen")
             konflikt="Utfall"
             continue
+        else:
+            print("Velg et riktig svar")
+            konflikt="Motivasjon"
     
     if konflikt=="Utfall":
         print()
