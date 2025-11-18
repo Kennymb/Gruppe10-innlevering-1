@@ -158,8 +158,11 @@ def valgmottaker(nøkkel):
 
 #kjører koden gjennom alle konfliktene
 valgmottaker("Konflikt1")
+print("\n" + "-" *50)
 valgmottaker("Konflikt2")
+print("\n" + "-" *50)
 valgmottaker("Konflikt3")
+print("\n" + "-" *50)
 
 #De 3 utfallene basert på et poengsystem
 print("*Prosjektet nærmer seg slutten*")
