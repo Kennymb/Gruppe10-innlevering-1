@@ -113,6 +113,7 @@ Dict = {
 }
 score = 0
 
+
 def PotetErGodt(nøkkel):
     data = Dict[nøkkel]
     global score
@@ -123,15 +124,18 @@ def PotetErGodt(nøkkel):
     valg1= input().upper()
     if valg1 == "B":
         score+=25 
-        print(data["Konsekvens1"])
+        for linje in data["Konsekvens2"]:
+            print(linje)
 
     elif valg1== "A":
         score+=100
-        print(data["Konsekvens2"])
+        for linje in data["Konsekvens2"]:
+            print(linje)
 
     elif valg1== "C":
         score+=0
-        print(data["Konsekvens3"])
+        for linje in data["Konsekvens2"]:
+            print(linje)
         
     else:
         print("Velg et svar")
