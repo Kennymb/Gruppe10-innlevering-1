@@ -24,6 +24,7 @@
 # Deliverable Title: Innleveringsoppgave 2
 
 # Date: 28.Oktober 2025
+________________________________________________________________
 
 
 
@@ -187,3 +188,19 @@ while True: #brukt while løkke slik at den hele tida skal sjekke videre
             print("Prosjektet faller sammen, kommunikasjonen svikter og alt blir forsinket")
 
             break
+
+def gyldige_svar (A,B,C):
+    while True:
+        if valg in gyldige_svar:
+            return valg
+        print("Velg et riktig valg: A, B eller C")
+
+def konflikter(konflikt_data):
+    print[spørsmål]
+    valg=input().strip.uppercase()
+    if valg== "A":
+        print[Konsekvens1]
+    elif valg=="B":
+        print[Konsekvens2]
+    elif valg=="C":
+        print[Konsekvens3]
