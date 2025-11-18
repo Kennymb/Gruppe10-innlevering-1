@@ -109,4 +109,3 @@ elif total > 2:
     print("Ikke verst! Det går greit, men det finnes forbedringsmuligheter.")
 else:
     print("Teamet sliter. Kanskje vurder en annen lederstil?")
-# Resultat----------
