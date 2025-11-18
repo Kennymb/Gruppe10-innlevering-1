@@ -4,6 +4,8 @@ print("Erling oppdager konflikt i teamet.\n")
 
 
 # valg 1----------
+# Viser(print) tekst som forklarer situasjon med 3 valgmuligheter med å velge 1,2 og 3. \n for linjeskifte
+# Bruker if, elif, else statement(setning). Setter poeng basert på valg(Input) 1,2 og 3. eller ugyldig valg.
 print("Silje og Sivert har begynt å bli frekke med hverandre på grunn av uenigheti prosjektet.""\n"
 "Nå krangler de ikke om prosjekt unenigheter, men kaster bare stygge ord mot hverandre",
       "\n","Beslutning 1: Hvordan håndtere konflikt mellom Silje og Sivert?", 
@@ -28,10 +30,12 @@ else:
 
 print("\nKonsekvens:", konsekvens1)
 print("Poeng:", poeng1, "\n")
-# valg 1----------
+
 
 
 # valg 2----------
+# Viser(print) tekst som forklarer situasjon med 3 valgmuligheter med å velge 1,2 og 3. \n for linjeskifte
+# Bruker if, elif, else statement(setning). Setter poeng basert på valg(Input) 1,2 og 3. eller ugyldig valg.
 print("Hambi og Jabir er uenig med hverandre angående prosjektet.",
       "\n","Beslutning 2: Hvordan håndtere konflikt mellom Hambi og Jabir?", 
       "\n","1: Høre med hele teamet (demokrati)", 
@@ -56,10 +60,12 @@ else:
 
 print("\nKonsekvens:", konsekvens2)
 print("Poeng:", poeng2, "\n")
-# valg 2----------
+
 
 
 # valg 3----------
+# Viser(print) tekst som forklarer situasjon med 3 valgmuligheter med å velge 1,2 og 3. \n for linjeskifte
+# Bruker if, elif, else statement(setning). Setter poeng basert på valg(Input) 1,2 og 3. eller ugyldig valg.
 print("Ooo nei! motivasjonen på teamet dropper, hva bør Erling gjøre",
       "\n","Beslutning 3: Hvordan bevare motivasjonen i teamet som helhet?", 
       "\n","1: Alkohol og samhold", 
@@ -84,10 +90,13 @@ else:
 
 print("\nKonsekvens:", konsekvens3)
 print("Poeng:", poeng3, "\n")
-#valg 3----------
+
 
 
 # Resultat----------
+# Kalkulerer sammen poeng fra valg 1,2 og 3.
+# Deretter presenterer et resultat basert på sammensatt poeng
+
 total = poeng1 + poeng2 + poeng3
 
 print("----------")
@@ -100,4 +109,3 @@ elif total > 2:
     print("Ikke verst! Det går greit, men det finnes forbedringsmuligheter.")
 else:
     print("Teamet sliter. Kanskje vurder en annen lederstil?")
-# Resultat----------
