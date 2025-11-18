@@ -116,7 +116,6 @@ Dict = {
         "Konsekvens3": [
             "Du er klar over at motivasjonen ikke er på topp, men du vet fra egen erfaring at dispilin er hva som drar et prosjekt framover",
             "og som sjef, så vet jo du best",
-            "Spesielt Silje går rundt i chatrom og snakker om å bytte ut sjefen",
         ],  
     },
 }
@@ -141,11 +140,11 @@ def valgmottaker(nøkkel):
     if valg in ("A", "B", "C"):
         score += poeng[nøkkel][valg]
 
-    if valg == "B":
+    if valg == "A":
         for linje in data["Konsekvens1"]:
             print(linje)
 
-    elif valg== "A":
+    elif valg== "B":
         for linje in data["Konsekvens2"]:
             print(linje)
 
@@ -170,9 +169,12 @@ print("\n" + "-" *50)
 if score>=250:
     print()
     print("Prosjektet går supert og dere blir ferdig i tide")
-elif 150 <= score <=250:
+elif score >=150:
     print()
     print("Prosjektet går helt greit, men du møter på flere utfordringer som er mentalt slitsomt")     
-elif 50<= score <= 150:
+else:
     print()
     print("Prosjektet går skeivs og dere må utsette fristen litt")
+
+print("\n" + "-" *50)
+print("Takk for at du spilte")
