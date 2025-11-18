@@ -108,7 +108,7 @@ Dict = {
             "Du er klar over at motivasjonen ikke er på topp, men du vet fra egen erfaring at dispilin er hva som drar et prosjekt framover",
             "og som sjef, så vet jo du best",
             "Spesielt Silje går rundt i chatrom og snakker om å bytte ut sjefen",
-        ],
+        ],  
     },
 }
 score = 0
@@ -123,18 +123,18 @@ def PotetErGodt(nøkkel):
 
     valg1= input().upper()
     if valg1 == "B":
-        score+=25 
-        for linje in data["Konsekvens2"]:
+        score += 25 
+        for linje in data["Konsekvens1"]:
             print(linje)
 
     elif valg1== "A":
-        score+=100
+        score += 100
         for linje in data["Konsekvens2"]:
             print(linje)
 
     elif valg1== "C":
-        score+=0
-        for linje in data["Konsekvens2"]:
+        score += 0
+        for linje in data["Konsekvens3"]:
             print(linje)
         
     else:
