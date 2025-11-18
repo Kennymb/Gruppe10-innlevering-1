@@ -65,7 +65,7 @@ def valg(key):
     return question
 
 good = 0  #Variabel for antall korrekte valg brukeren har tatt
-
+3
 #Introduksjon
 print("Velkommen til Erlings verden")
 print("Du har laget en medborgersportal og skal nå utvikle teamet ditt.")
@@ -110,6 +110,6 @@ print("\n Resultat")
 if good >= 2:
     print("Erling balanserer interessene, teamet gjenoppretter tillit og får et bra resultat.")
 elif good == 1:
-    print("Prosjektet leveres, men konfliktene er bare delvis løst og relasjonene er sårbare noe som går utover kvaliteten.")
+    print("Prosjektet leveres, men konfliktene er bare delvis løst og relasjonene er sårbare noe.")
 else:
     print("Konflikter fører til svak løsning, redusert tillit og forsinket prosjekt.")
