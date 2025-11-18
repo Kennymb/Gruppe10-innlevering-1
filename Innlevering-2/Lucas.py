@@ -65,7 +65,7 @@ def valg(key):
     return question
 
 good = 0  #Variabel for antall korrekte valg brukeren har tatt
-3
+
 #Introduksjon
 print("Velkommen til Erlings verden")
 print("Du har laget en medborgersportal og skal nå utvikle teamet ditt.")
