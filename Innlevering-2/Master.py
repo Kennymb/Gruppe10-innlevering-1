@@ -24,7 +24,6 @@
 # Deliverable Title: Innleveringsoppgave 2
 
 # Date: 28.Oktober 2025
-________________________________________________________________
 
 
 
