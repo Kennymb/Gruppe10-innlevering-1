@@ -25,6 +25,15 @@
 
 # Date: 28.Oktober 2025
 
+
+#Introduksjon
+print("Velkommen til Erlings verden")
+print("Du har laget en medborgersportal og skal nå utvikle teamet ditt.")
+print("Det er flere konflikter som brygger og dine valg vil påvirke prosjektets suksess")
+print()
+print("Det er en grå morgen på kontoret. Humøret svinger og du er klar over hvordan teamet ikke er  på topp. I det du går inn døren til pause rommet hører du høylytte stemmer")
+print("Silje sier til sivert 'Du er så ubrukelig og du stinker'. Du ser Sivert gå ut av rommet litt lei seg")
+
 Dict = { 
 # Ordliste som inneholder alle tre konfliktene og valgmulighet. Grunne jeg valgte dette over lister er at jeg kan gjør alt på en variabel.
     "Konflikt1": {
@@ -91,7 +100,7 @@ Dict = {
             "Prosjektet er sluttfasen og teamet har mistet fokus, hvordan skal du få teamet til å bli mer samspleiset for å rekke fristen?",
             "A)Du tar alle ut for en felles fest med 3 drikke bonger",
             "B)Du tvinger alle inn på et 3 timers lang møte for å snakke om åpen kommuinkasjon",
-            "C)Motivasjon? Finnes bare disiplin",
+            "C)Motivasjon? Finnes bare disiplin!",
         ],
         "Konsekvens1": [
             "Du tar med alle ut på en felles fest for at folk skal kommunisere på tvers av grupper",
@@ -111,6 +120,7 @@ Dict = {
         ],  
     },
 }
+#Poengsystemet
 score = 0
 poeng = {
     "Konflikt1": {"A": 100, "B": 25, "C": 0},
@@ -118,51 +128,48 @@ poeng = {
     "Konflikt3": {"A": 100, "B": 50, "C": 0},
 }
 
-
-def PotetErGodt(nøkkel):
+#tar i mot valg
+def valgmottaker(nøkkel):
     data = Dict[nøkkel]
     global score
 
     for linje in data["Spørsmål"]:
         print(linje)
     
-    valg1 = input().upper()
+    valg = input().upper()
 
-    if valg1 in ("A", "B", "C"):
-        score += poeng[nøkkel][valg1]
+    if valg in ("A", "B", "C"):
+        score += poeng[nøkkel][valg]
 
-    if valg1 == "B":
+    if valg == "B":
         for linje in data["Konsekvens1"]:
             print(linje)
 
-    elif valg1== "A":
+    elif valg== "A":
         for linje in data["Konsekvens2"]:
             print(linje)
 
-    elif valg1== "C":
+    elif valg== "C":
         for linje in data["Konsekvens3"]:
             print(linje)
         
     else:
-        print("Velg et svar")
+        print("Velg et gyldig svar: A, B eller C")
 
-PotetErGodt("Konflikt1")
-PotetErGodt("Konflikt2")
-PotetErGodt("Konflikt3")
+#kjører koden gjennom alle konfliktene
+valgmottaker("Konflikt1")
+valgmottaker("Konflikt2")
+valgmottaker("Konflikt3")
 
-"""
-def gyldige_svar (A,B,C):
-    while True:
-        if valg in gyldige_svar:
-            return valg
-        print("Velg et riktig valg: A, B eller C")
-
-def konflikter(konflikt_data):
-    print[spørsmål]
-    valg=input().strip.uppercase()
-    if valg== "A":
-        print[Konsekvens1]
-    elif valg=="B":
-        print[Konsekvens2]
-    elif valg=="C":
-        print[Konsekvens3]"""
+#De 3 utfallene basert på et poengsystem
+print("*Prosjektet nærmer seg slutten*")
+print("\n" + "-" *50)
+if score>=250:
+    print()
+    print("Prosjektet går supert og dere blir ferdig i tide")
+elif 150 <= score <=250:
+    print()
+    print("Prosjektet går helt greit, men du møter på flere utfordringer som er mentalt slitsomt")     
+elif 50<= score <= 150:
+    print()
+    print("Prosjektet går skeivs og dere må utsette fristen litt")
