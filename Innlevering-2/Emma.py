@@ -8,7 +8,7 @@ print("Silje sier til sivert 'Du er så ubrukelig og du stinker'. Du ser Sivert 
 score = 0
 konflikt="Silje og Sivert"
 
-while True:
+while True: #brukt while løkke slik at den hele tida skal sjekke videre
     if konflikt== "Silje og Sivert":
         print("Hvordan skal du løse konflikten? ")
         print("A) Snakk med begge og prøve å finne et felles forslag")
@@ -17,7 +17,7 @@ while True:
         valg1= input().upper()
 
         if valg1 == "B":
-            score+=25
+            score+=25 #Dette er for å holde styr på valgets kosekvenser og det påvirker slutt resultatet
             print("*Du kaller inn til et møte*")
             print("Okei folkens, så vi har et problem vi må ta opp")
             print("Husk at vi skal holde en profesjonell oppførsel på jobb")
@@ -25,8 +25,8 @@ while True:
             print("*Teamet blir ikke no nærmere")
             print()
             
-            konflikt="Hamdi og Jabir"
-            continue
+            konflikt="Hamdi og Jabir" #Her bytter du til neste konflikt
+            continue #her er continue fordi i første omgang så ville den ikke sendes videre/bytte til neste konflikt
 
         elif valg1== "A":
             score+=100
@@ -64,7 +64,7 @@ while True:
         print("A)Tar et demokratisk valg")
         print("B)Ta deg en kopp kaffi")
         print("C)Ta et autoritært valg")
-        valg2=input().upper()
+        valg2=input().upper() #Upper sånn at de kan lett skrive inn og det blir til stor bokstav 
 
         if valg2=="A":
             score+=50
@@ -143,7 +143,7 @@ while True:
         if score>=250:
             print()
             print("Prosjektet går supert og dere blir ferdig i tide")
-            break
+            break #slutte while løkken
         
         elif 150 <= score <=250:
             print()
