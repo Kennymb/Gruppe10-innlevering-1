@@ -112,6 +112,11 @@ Dict = {
     },
 }
 score = 0
+poeng = {
+    "Konflikt1": {"A": 100, "B": 25, "C": 0},
+    "Konflikt2": {"A": 100, "B": 0,  "C": 50},
+    "Konflikt3": {"A": 100, "B": 50, "C": 0},
+}
 
 
 def PotetErGodt(nøkkel):
@@ -120,20 +125,21 @@ def PotetErGodt(nøkkel):
 
     for linje in data["Spørsmål"]:
         print(linje)
+    
+    valg1 = input().upper()
 
-    valg1= input().upper()
+    if valg1 in ("A", "B", "C"):
+        score += poeng[nøkkel][valg1]
+
     if valg1 == "B":
-        score += 25 
         for linje in data["Konsekvens1"]:
             print(linje)
 
     elif valg1== "A":
-        score += 100
         for linje in data["Konsekvens2"]:
             print(linje)
 
     elif valg1== "C":
-        score += 0
         for linje in data["Konsekvens3"]:
             print(linje)
         
@@ -141,6 +147,8 @@ def PotetErGodt(nøkkel):
         print("Velg et svar")
 
 PotetErGodt("Konflikt1")
+PotetErGodt("Konflikt2")
+PotetErGodt("Konflikt3")
 
 """
 def gyldige_svar (A,B,C):
