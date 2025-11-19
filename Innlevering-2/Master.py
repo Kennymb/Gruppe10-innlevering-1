@@ -141,18 +141,18 @@ def valgmottaker(nøkkel):
         if valg in ("A", "B", "C"):
             score += poeng[nøkkel][valg]
 
-        if valg == "A":
-            for linje in data["Konsekvens1"]:
-                print(linje)
+            if valg == "A":
+                for linje in data["Konsekvens1"]:
+                    print(linje)
 
-        elif valg== "B":
-            for linje in data["Konsekvens2"]:
-                print(linje)
+            elif valg== "B":
+                for linje in data["Konsekvens2"]:
+                    print(linje)
 
-        elif valg== "C":
-            for linje in data["Konsekvens3"]:
-                print(linje)
-        
+            elif valg== "C":
+                for linje in data["Konsekvens3"]:
+                    print(linje)
+            break
         else:
             print("Velg et gyldig svar: A, B eller C")
 
