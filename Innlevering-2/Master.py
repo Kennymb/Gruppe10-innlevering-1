@@ -152,7 +152,7 @@ def valgmottaker(nøkkel):
             elif valg== "C":
                 for linje in data["Konsekvens3"]:
                     print(linje)
-            break
+            break #to break out and continue if correct answer
         else:
             print("Velg et gyldig svar: A, B eller C")
 
