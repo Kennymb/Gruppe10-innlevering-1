@@ -135,29 +135,30 @@ def valgmottaker(nøkkel):
     for linje in data["Spørsmål"]:
         print(linje)
     
-    valg = input().upper()
+    while True: #While løkke hvis de skriver inn feil så vil den hele tida spørre til riktig svar før den går videre
+        valg = input().upper()
 
-    if valg in ("A", "B", "C"):
-        score += poeng[nøkkel][valg]
+        if valg in ("A", "B", "C"):
+            score += poeng[nøkkel][valg]
 
-    if valg == "A":
-        for linje in data["Konsekvens1"]:
-            print(linje)
+        if valg == "A":
+            for linje in data["Konsekvens1"]:
+                print(linje)
 
-    elif valg== "B":
-        for linje in data["Konsekvens2"]:
-            print(linje)
+        elif valg== "B":
+            for linje in data["Konsekvens2"]:
+                print(linje)
 
-    elif valg== "C":
-        for linje in data["Konsekvens3"]:
-            print(linje)
+        elif valg== "C":
+            for linje in data["Konsekvens3"]:
+                print(linje)
         
-    else:
-        print("Velg et gyldig svar: A, B eller C")
+        else:
+            print("Velg et gyldig svar: A, B eller C")
 
 #kjører koden gjennom alle konfliktene
 valgmottaker("Konflikt1")
-print("\n" + "-" *50)
+print("\n" + "-" *50) #linje for å vise skifte av scene
 valgmottaker("Konflikt2")
 print("\n" + "-" *50)
 valgmottaker("Konflikt3")
