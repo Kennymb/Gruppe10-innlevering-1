@@ -6,9 +6,9 @@ Dict = {
             "Hvordan bør Erling håndtere situasjonen?"
         ),
         "options": [
-            "Be Silje og Sivert finne et kompromiss og minne dem på felles mål.",
-            "Ta saken opp i plenum for å få alle perspektiver.",
-            "Ignorere konflikten og håpe den løser seg selv."
+            "1. Be Silje og Sivert finne et kompromiss og minne dem på felles mål.",
+            "2. Ta saken opp i plenum for å få alle perspektiver.",
+            "3. Ignorere konflikten og håpe den løser seg selv."
         ],
         "correct": 1
     },
@@ -19,9 +19,9 @@ Dict = {
             "Hvordan bør Erling gripe inn?"
         ),
         "options": [
-            "Ta saken med hele gruppa og finne en balansert løsning.",
-            "La Hamdi og Jabir ordne opp selv.",
-            "Bestemme løsningen alene uten videre dialog."
+            "1. Ta saken med hele gruppa og finne en balansert løsning.",
+            "2. La Hamdi og Jabir ordne opp selv.",
+            "3. Bestemme løsningen alene uten videre dialog."
         ],
         "correct": 1
     },
@@ -32,9 +32,9 @@ Dict = {
             "Hva bør Erling gjøre?"
         ),
         "options": [
-            "Holde en lang forelesning om samarbeid.",
-            "Stramme inn struktur og kun fokusere på resultater.",
-            "Arrangere en sosial kveld for å styrke relasjoner."
+            "1. Holde en lang forelesning om samarbeid.",
+            "2. Stramme inn struktur og kun fokusere på resultater.",
+            "3. Arrangere en sosial kveld for å styrke relasjoner."
         ],
         "correct": 3
     }
@@ -50,8 +50,8 @@ def valg(key):
     data = Dict[key]
 
     print( data["action"])
-    for i, option in enumerate(data["options"], start=1):
-        print(f"{i}: {option}")
+    for linje in data["options"]:
+        print(linje)
    
     while True:
         try:
